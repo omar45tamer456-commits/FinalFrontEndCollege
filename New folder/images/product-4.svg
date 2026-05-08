@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <rect width="400" height="280" fill="#ecfccb"/>
+  <rect x="120" y="55" width="160" height="170" rx="24" fill="#65a30d"/>
+  <rect x="145" y="82" width="110" height="116" rx="16" fill="#ffffff" opacity="0.94"/>
+  <text x="200" y="255" text-anchor="middle" font-family="Arial" font-size="24" fill="#3f6212">Daily Bottle</text>
+</svg>
